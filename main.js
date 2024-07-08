@@ -16,7 +16,7 @@ var mcData;
 const brain = require('./brain.js');
 
 const bot = mineflayer.createBot({
-	host: "localhost",
+	host: "surya0p20044.aternos.me:19868",
 	username: "JABot",
 	version: "1.16.4",
 	viewDistance: "tiny",
